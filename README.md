@@ -66,3 +66,8 @@ everything-ai/
 ---
 
 Built autonomously by the Grok persistent self-coder + sandbox open-ended solver on 2026-08-07.
+
+## Documentation
+
+- In-repo docs: [docs/](docs/index.md)
+- Wiki: [https://github.com/fitzyracing1/everything-ai-2026-08-07/wiki](https://github.com/fitzyracing1/everything-ai-2026-08-07/wiki)
